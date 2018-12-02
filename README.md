@@ -1,7 +1,3 @@
-# Lesson fo Ansible
-
-Ansible学習用プロジェクト
-
 ## 仮想サーバー
 
 - provisioningサーバー  
